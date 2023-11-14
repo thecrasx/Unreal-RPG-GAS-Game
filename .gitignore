@@ -5,7 +5,9 @@ Saved
 Build
 Content
 
+.idea
 .vscode
+.vsconfig
 .vs
 *.VC.db
 *.opensdf
